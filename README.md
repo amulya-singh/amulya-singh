@@ -19,19 +19,32 @@ npx amy
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```
 javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const manik = {
+    pronouns: "She" | "Her",
+    code: ["C","C++", "HTML", "CSS", "Javascript", "Sql"],
+    askMeAbout: ["web dev", "tech", "Data-structure","DBMS"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Sass", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express",]
+        },
+        databases: ["Mongo", "MySql", "sqlite"],
+        misc: ["Firebase"]
+    },
+    architecture: ["MVC", "Progressive web applications", "Single page applications"],
+    currentFocus: "Web Dev & DSA",
+    funFact: "If I was a superhero who could fly and be invisible that would be the best."
+};
 ```
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=user7751F&theme=unicorn)
+[![amulya's github stats](https://github-readme-stats.vercel.app/api?username=amulya-singh)](https://github.com/amulya-singh)
+
+### relaxing with
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31sge3i6xgo2iepb7xigqwu7qgou?si=lgKg8T8PTdymhmRXJXip4w)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
