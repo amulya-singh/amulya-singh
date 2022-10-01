@@ -21,15 +21,15 @@ npx amy
 javascript
 const manik = {
     pronouns: "She" | "Her",
-    code: ["C","C++", "HTML", "CSS", "Javascript", "Sql"],
-    askMeAbout: ["web dev", "tech", "Data-structure","DBMS"],
+    code: ["C","C++", "HTML", "CSS", "Javascript", "SQL"],
+    askMeAbout: ["web dev", "tech", "Data-structure", "DBMS"],
     technologies: {
         frontEnd: {
             js: ["React"],
             css: ["Sass", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express",]
+            js: ["node", "express"]
         },
         databases: ["Mongo", "MySql", "sqlite"],
         misc: ["Firebase"]
