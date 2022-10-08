@@ -21,7 +21,7 @@ npx amy
 javascript
 const amy = {
     pronouns: "She" | "Her",
-    code: ["C","C++", "HTML", "CSS", "Javascript", "SQL"],
+    code: ["C", "C++", "HTML", "CSS", "Javascript", "SQL"],
     askMeAbout: ["web dev", "tech", "Data-structure", "DBMS"],
     technologies: {
         frontEnd: {
