@@ -11,9 +11,11 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx amy
+npx amulyasingh
 ```
-**👆 This command line tool can be found at [npx amy](https://github.com/manikmmalhotra/npx-card)**
+**👆 This command line tool can be found at [npx amulyasingh(amulya-singh
+/
+npx-card)**
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
