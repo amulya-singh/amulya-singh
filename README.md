@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/amulya-singh?label=follow&style=social)](https://github.com/amulya-singh)
 
 
-👇 Hit in your console or terminal to connect with me.
+👇 Hit your console or terminal to connect with me.
 
 ```bash
 npx amulyasingh
@@ -22,21 +22,21 @@ javascript
 const amy = {
     pronouns: "She" | "Her",
     code: ["C", "C++", "HTML", "CSS", "Javascript", "SQL"],
-    askMeAbout: ["web dev", "tech", "Data-structure", "DBMS"],
+    askMeAbout: ["Web Dev", "Tech", "Data-structure", "DBMS"],
     technologies: {
         frontEnd: {
             js: ["React"],
             css: ["Sass", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"]
+            js: ["Node", "Express"]
         },
-        databases: ["Mongo", "MySql", "sqlite"],
+        databases: ["Mongo", "MySql", "Sqlite"],
         misc: ["Firebase"]
     },
     architecture: ["MVC", "Progressive web applications", "Single page applications"],
     currentFocus: "Web Dev & DSA",
-    funFact: "If I was a superhero who could fly and be invisible that would be the best."
+    funFact: "If I could have any superpower, it would be to speak any language so I could connect with anyone in the world."
 };
 ```
 
@@ -46,6 +46,6 @@ const amy = {
 ### relaxing with
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/31sge3i6xgo2iepb7xigqwu7qgou?si=lgKg8T8PTdymhmRXJXip4w)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 ---
