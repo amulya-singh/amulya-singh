@@ -1,6 +1,6 @@
 <h2> Hi, I'm Amulya Singh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Pursuing B.Tech from <a href="https://aktu.ac.in/">Dr. A.P.J. Abdul Kalam Technical University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em> B.Tech graduate from <a href="https://aktu.ac.in/">Dr. A.P.J. Abdul Kalam Technical University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
 
